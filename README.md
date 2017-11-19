@@ -1,4 +1,4 @@
-# Cibernarium calculator.
+# Cibernarium calculator
 
 A calculator for browser to perform a quick overview on ReactJS basics. Developed in Cibernarium, Barcelona.
 
